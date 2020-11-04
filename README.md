@@ -4,7 +4,7 @@ This repository contains some customer behavior analysis projects I made.
 
 ## Project Overview
 
-This repository consists of 5 main components:
+This repository consists of 6 main components:
 
 [Cohort Analysis](https://github.com/Alisaahy/Customer_Behavior_Analysis/blob/main/Cohort_analysis.ipynb): A project that observes the customers’ behavior depending on the time they started using the our products to identify churn trend and gain insights in specific user behavior.
 
